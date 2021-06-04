@@ -1,0 +1,2 @@
+1) dotnet ef migrations add InitialCreate -o Data/Migrations --> to make a migration and add it to the Data Folder
+2) dotnet ef database update --> Create/Update database
